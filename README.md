@@ -1,2 +1,2 @@
-# Fast GCD Inverse Hardware
-Hardware design on Fast GCD inverse algorithm will be added to this repository.
+# Variable shift hardware
+Hardware design for variable shift will be added to this repository.
